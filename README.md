@@ -58,5 +58,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## 👨‍💻 Autor
 
 - **Gabriel Sbruzzi**  
-  - GitHub: [@seu-usuario](https://github.com/GabrielSbruzzi)
-  - LinkedIn: [Seu Nome](https://www.linkedin.com/in/gabriel-sbruzz)
+  - GitHub: [@GabrielSbruzzi](https://github.com/GabrielSbruzzi)
+  - LinkedIn: [Gabriel Sbruzzi](https://www.linkedin.com/in/gabriel-sbruzz)
