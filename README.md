@@ -59,4 +59,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 - **Gabriel Sbruzzi**  
   - GitHub: [@GabrielSbruzzi](https://github.com/GabrielSbruzzi)
-  - LinkedIn: [Gabriel Sbruzzi](https://www.linkedin.com/in/gabriel-sbruzz)
+  - LinkedIn: [Gabriel Sbruzzi](https://www.linkedin.com/in/gabriel-sbruzzi)
